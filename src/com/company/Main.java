@@ -16,11 +16,12 @@ public class Main {
         }*/
 
         for (int i = 0; i <= 100; i= i+10) {
-            System.out.print(i);
-            if(i/20 >=1){
-                System.out.println(" Java");
-            }
-            System.out.println("");
+//            System.out.print(i);
+//            if(i/20 >=1){
+//                System.out.println(" Java");
+//            }
+//            System.out.println("");
+            System.out.println(i%20==0?i + " Java":i);
 
         }
 
