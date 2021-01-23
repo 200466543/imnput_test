@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
+
         /*Scanner Scan = new Scanner(System.in);
         System.out.println("Type Something");
 
@@ -15,15 +16,21 @@ public class Main {
             System.out.println(i);
         }*/
 
-        for (int i = 0; i <= 100; i= i+10) {
+//        for (int i = 0; i <= 100; i= i+10) {
 //            System.out.print(i);
 //            if(i/20 >=1){
 //                System.out.println(" Java");
 //            }
 //            System.out.println("");
-            System.out.println(i%20==0?i + " Java":i);
+//            System.out.println(i%20==0?i + " Java":i);
 
-        }
+        System.out.println(SkiTest.timeToSki(10));
+
+
+
+
+
+//        }
 
 
 
