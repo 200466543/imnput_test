@@ -9,5 +9,7 @@ public class Main {
         String input = Scan.nextLine();
         System.out.println("You typed: " + input);
 
+        System.out.println("Added a line of text");
+
     }
 }
