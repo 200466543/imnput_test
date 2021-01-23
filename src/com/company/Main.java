@@ -24,7 +24,8 @@ public class Main {
 //            System.out.println("");
 //            System.out.println(i%20==0?i + " Java":i);
 
-        System.out.println(SkiTest.timeToSki(10));
+//        System.out.println(SkiTest.timeToSki(10));
+//        SkiTest.starPattern(20);
 
 
 
